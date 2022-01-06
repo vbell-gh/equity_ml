@@ -1,0 +1,11 @@
+data/
+archive/
+
+psql.py
+tiingo_key.py
+psql_keys.py
+test.py
+
+*.log
+*.ipynb_checkpoints
+*.pyc
